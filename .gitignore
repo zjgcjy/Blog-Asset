@@ -1,3 +1,4 @@
+_drafts
 *.gem
 *.sublime-project
 *.sublime-workspace
@@ -8,7 +9,6 @@
 .sass-cache
 _asset_bundler_cache
 _site
-_drafts
 _posts
 codekit-config.json
 package-lock.json
