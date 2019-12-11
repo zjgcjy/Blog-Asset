@@ -8,6 +8,8 @@
 .sass-cache
 _asset_bundler_cache
 _site
+_draft
+_posts
 codekit-config.json
 package-lock.json
 Gemfile.lock
