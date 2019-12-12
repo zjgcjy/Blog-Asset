@@ -103,16 +103,16 @@ author:
   location         : "BeiJing China"
   links:
     - label: "Website"
-      icon: "fas fa-fw fa-link"
+      icon: "fa fa-link"
       url: "https://zjgcjy.github.io"
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fa fa-envelope-square"
       url: mailto:zjgcjy@gmail.com
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fa fa-github-square"
       url: "https://github.com/zjgcjy"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fa fa-twitter-square"
       url: "https://twitter.com/zjgcjy"
 
 
@@ -120,10 +120,10 @@ author:
 footer:
   links:
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fa fa-github-square"
       url: "https://github.com/zjgcjy"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fa fa-twitter-square"
       url: "https://twitter.com/zjgcjy"
 
 
