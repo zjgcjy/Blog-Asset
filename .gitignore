@@ -10,7 +10,6 @@ _asset_bundler_cache
 _site
 _posts
 _drafts
-img
 codekit-config.json
 package-lock.json
 Gemfile.lock
